@@ -1,1 +1,1 @@
-I am pushin the file to remote.
+I am pushing the file to remote.
